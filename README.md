@@ -17,7 +17,7 @@ Manual: 15.01.2019
 
 
 
-![Pling-instrument-screenshot](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/Pling-instrument-screenshot.png)
+![Pling-instrument-screenshot](./Manual_Screenshots/Pling-instrument-screenshot.png)
 
 
 
@@ -79,13 +79,13 @@ Our Instruments are provided for Mac OS X Plug-In format AU, VST2. We recommend 
 2. Open the Plug-In 
 3. Click on *Install Samples*.
 
-![SamplArchiveInstaller01](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/SamplArchiveInstaller01.png)
+![SamplArchiveInstaller01](./Manual_Screenshots/SamplArchiveInstaller01.png)
 
 1. Locate the downloaded sample-archive (**.hr**)-file
 2. Select a destination folder, where the sample-archive will be extracted to. (This doesn't have to be the same folder where you previously installed the Plug-In).
 3. Finally confirm with *OK* to extract the samples to their new location.
 
-![SamplArchiveInstaller02](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/SamplArchiveInstaller02.png)
+![SamplArchiveInstaller02](./Manual_Screenshots/SamplArchiveInstaller02.png)
 
 
 
@@ -147,25 +147,25 @@ And delete the application support files in the following directory:
 
 The rudimentary controls of the global section are self-explanatory labeled with an ON/OFF switch to bypass **Pling** and a MASTER knob to control the overall output volume. The MIDI and AUDIO lights practically indicate any incoming or outgoing signal.
 
-![Plingmastersection](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/Plingmastersection.png)
+![Plingmastersection](./Manual_Screenshots/Plingmastersection.png)
 
 ## Sound Section
 
 Beneath the sound section the envelope control knobs ATTACK and DECAY permit **Pling** to morph from a percussive to a nearly muted sound. The REVERB AMOUNT knob which could be bypassed with its own ON/OFF switch, also takes care of the overall volume to ensure that the reverb tail doesn't override the stereo output. 
 
-![Plingsondsection](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/Plingsondsection.png)
+![Plingsondsection](./Manual_Screenshots/Plingsondsection.png)
 
 ## Noise Section
 
 The Noise Section contains two seperate Loop Player which can be enabled via ON/OFF switch, panned left and right and independently controlled in volume. Each Loop can be modified via START and END, which gives **PLING** a large scope for atmospheric scapes.
 
-![Plingnoisesection](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/Plingnoisesection.png)
+![Plingnoisesection](./Manual_Screenshots/Plingnoisesection.png)
 
 ## Settings
 
 Inside the Settings a MASTER TUNING knob changes the overall pitch up or down one octave via semitone steps. Alternating the pitch can lead to interesting results and expands the bandwidth of **PLING**.
 
-![Plingsettingssection](/Users/Moses/Desktop/BU%20Manual%2015012019%20lo%CC%88schen%20am%20ende%20des%20tages/Peter/sonomato-pling-manual-private/Manual_Screenshots/Plingsettingssection.png)
+![Plingsettingssection](./Manual_Screenshots/Plingsettingssection.png)
 
 
 
@@ -193,4 +193,3 @@ D-50672 Cologne
 Germany
 
 www.sonomato.de
-
