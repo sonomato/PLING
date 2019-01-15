@@ -81,15 +81,17 @@ Our Instruments are provided for Mac OS X Plug-In format AU, VST2. We recommend 
 
 ![SamplArchiveInstaller01](./Manual_Screenshots/SamplArchiveInstaller01.png)
 
-1. Locate the downloaded sample-archive (**.hr**)-file
-2. Select a destination folder, where the sample-archive will be extracted to. (This doesn't have to be the same folder where you previously installed the Plug-In).
-3. Finally confirm with *OK* to extract the samples to their new location.
+4. Locate the downloaded sample-archive (**.hr**)-file
+
+5. Select a destination folder, where the sample-archive will be extracted to. (This doesn't have to be the same folder where you previously installed the Plug-In).
+
+6. Finally confirm with *OK* to extract the samples to their new location.
 
 ![SamplArchiveInstaller02](./Manual_Screenshots/SamplArchiveInstaller02.png)
 
 
 
-1. The dialog: **"*The sample directory does not exist*"** may appear on your screen. Click the *Ignore* button and reopen/reload the plugin. The samples should be available now. 
+7. The dialog: **"*The sample directory does not exist*"** may appear on your screen. Click the *Ignore* button and reopen/reload the plugin. The samples should be available now. 
 
 
 
@@ -97,11 +99,7 @@ Our Instruments are provided for Mac OS X Plug-In format AU, VST2. We recommend 
 
 To change the sample folder location, move the sample folder to its new destination and delete the specific link file **LinkOSX** in the following directory: 
 
-**Mac OS X**:
-
 *~/Library/Application Support/sonomato/* 
-
-
 
 After deleting the link file reopen the application and click *Choose Sample Folder*. Now lead to the new destination folder of the sample library and restart the application.
 
@@ -111,19 +109,13 @@ After deleting the link file reopen the application and click *Choose Sample Fol
 
 To reinstall the sample library delete the **LinkOSX** file in the following directory: 
 
-**Mac OS X**:
-
 *~/Library/Application Support/sonomato/* 
 
-
-
-After deleting the link file reopen the application and click *Install Samples*. Now start again with chapter **Sample - Installation**. 
+After deleting the link file reopen the application and click *Install Samples*. Now start again with chapter **Samples - Installation**. 
 
 
 
 ## Uninstallation
-
-### Uninstallation Mac OS X
 
 To uninstall this application delete the **.component** and **.vst** files from your plugin directories: 
 
